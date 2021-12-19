@@ -1,0 +1,21 @@
+# HTML标签
+## 章节标签
+> 表示文章/书的层级
+- 标题 h1-h6
+- 章节 section
+- 文章 article
+- 段落 p
+- 头部 header
+- 脚部 footer
+- 主要内容 main
+- 旁支内容 aside
+- 划分 div
+## 全局属性
+> 所有标签都有全局属性
+- class
+- contenteditable
+- hidden
+- id
+- style
+- tabindex
+- title
