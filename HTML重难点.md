@@ -59,7 +59,7 @@
 - onload 加载成功
 - onerror 加载失败
 ### 响应式
-- max-widit:100%
+- max-width:100%
 ### [可替换元素](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Replaced_element)
 
 ## form
