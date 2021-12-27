@@ -7,6 +7,8 @@
 ### Internet Protocal
 > - 定位一台设备
 > - 封装数据报文,以跟其他设备交流
+```bash
+ping baidu.com
 
 ### 几个特殊的IP
 - 127.0.0.1 表示自己
@@ -50,6 +52,8 @@
     - github.io把字域名xxx.github.io免费给所有人使用
     - www.xiedaimala.com和xiedaimala.com可以不是同一家公司,也可以是
     - www是多余的
+```bash
+nslookup baidu.com
 
 ## 路径
 > 请求不同的页面
