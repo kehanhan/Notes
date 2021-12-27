@@ -9,6 +9,7 @@
 > - 封装数据报文,以跟其他设备交流
 ```bash
 ping baidu.com
+```
 
 ### 几个特殊的IP
 - 127.0.0.1 表示自己
@@ -54,6 +55,7 @@ ping baidu.com
     - www是多余的
 ```bash
 nslookup baidu.com
+```
 
 ## 路径
 > 请求不同的页面
